@@ -23,8 +23,6 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Przełącz na tryb jasny
-  features:
-    - navigation.footer
 
 nav:
 - Strona Domowa: index.md
@@ -42,5 +40,3 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:mateuszvvilczewski@gmail.com
       name: Email
-  copyright:
-    © 2025 Mateusz Wilczewski
