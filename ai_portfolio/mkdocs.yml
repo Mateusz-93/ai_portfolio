@@ -7,10 +7,22 @@ site_description: >-
 repo_name: Mateusz-93/ai_portfolio
 repo_url: https://github.com/Mateusz-93/ai_portfolio
 
+
 theme:
   name: material
   palette:
-    primary: lime
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: lime
+      toggle:
+        icon: material/weather-night
+        name: Przełącz na tryb ciemny
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Przełącz na tryb jasny
 
 nav:
 - Strona Domowa: index.md
@@ -19,3 +31,14 @@ nav:
 - Poprzednie projekty:
   - "Titanic": titanic/index.md
   - "Iris": iris/index.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Mateusz-93
+      name: GitHub
+    - icon: fontawesome/solid/envelope
+      link: mateuszvvilczewski@gmail.com
+      name: Email
+  copyright:
+    © 2025 Mateusz Wilczewski
