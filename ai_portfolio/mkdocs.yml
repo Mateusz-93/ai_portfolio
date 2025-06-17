@@ -1,0 +1,17 @@
+site_name: Portfolio
+site_author: Mateusz Wilczewski
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+theme:
+  name: material
+  palette:
+    primary: lime
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+  - "App'ka kolorowanka": kolorowanka/index.md
+- Poprzednie projekty:
+  - "Titanic": titanic/index.md
+  - "Iris": iris/index.md
