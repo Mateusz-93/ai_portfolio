@@ -16,7 +16,12 @@ Te dane to więcej niż liczby — to **klucz** do tajemnicy irysów.
 Zapraszam Cię do odkrycia tej historii, gdzie nauka spotyka się z magią natury.
 
 
-*Utworzono: 2025-06-12*
+<p style="text-align: center; font-size: 1em; color: #999;">
+  <em>Utworzono: 2025-06-12</em>
+</p>
+<p style="text-align: center; font-size: 0.85em; color: #999;">
+© 2025 Mateusz Wilczewski
+</p>
 
 <a href="eda_irysy.ipynb" class="md-button">Pobierz Notebook</a>
 

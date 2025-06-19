@@ -4,12 +4,12 @@ Gdy w 1912 roku Titanic wyruszał w swój pierwszy rejs, nikt nie przypuszczał,
 W tej analizie nie chodzi tylko o liczby.
 To historia setek ludzi: kobiet, mężczyzn i dzieci — ich nadziei, decyzji i losów.
 
-Titanic nie wybierał.
-Ale dane pokazują, kto miał większą szansę.
+<p style="text-align: center; font-size: 1em; color: #999;">
+  Titanic nie wybierał. Ale dane pokazują, kto miał większą szansę.
+</p>
 
-<p style="text-align: center; font-size: 0.85em; color: #999;">
-Nie pytam: „*czy zginął?*”.
-Pytam: „**dlaczego?**”.
+<p style="text-align: center; font-size: 1em; color: #999;">
+  Nie pytam: „<em>czy zginął?</em>” - pytam: „<strong>dlaczego?</strong>”.
 </p>
 
 🔍 Sprawdzam, jak klasa biletu, wiek i płeć decydowały o szansach na ocalenie.
@@ -24,8 +24,12 @@ Wejdź na pokład — i zobacz, co mówią liczby.
 
 🎧 Usłysz historię.
 
-*Utworzono: 2025-06-19*
-
+<p style="text-align: center; font-size: 1em; color: #999;">
+  <em>Utworzono: 2025-06-19</em>
+</p>
+<p style="text-align: center; font-size: 0.85em; color: #999;">
+© 2025 Mateusz Wilczewski
+</p>
 
 <a href="eda_titanic.ipynb" class="md-button">Pobierz Notebook</a>
 
