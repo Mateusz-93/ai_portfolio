@@ -7,9 +7,10 @@ To historia setek ludzi: kobiet, mężczyzn i dzieci — ich nadziei, decyzji i 
 Titanic nie wybierał.
 Ale dane pokazują, kto miał większą szansę.
 
-Nie pytam: „czy zginął?”.
-
+<p style="text-align: center; font-size: 0.85em; color: #999;">
+Nie pytam: „*czy zginął?*”.
 Pytam: „**dlaczego?**”.
+</p>
 
 🔍 Sprawdzam, jak klasa biletu, wiek i płeć decydowały o szansach na ocalenie.
 
@@ -17,9 +18,7 @@ Pytam: „**dlaczego?**”.
 
 *To nie jest zwykła analiza.*
 
-*To historia opowiedziana przez liczby.*
-
-*Statystyczna podróż przez pokład Titanica.*
+*To historia opowiedziana przez liczby - statystyczna podróż przez pokład Titanica.*
 
 Wejdź na pokład — i zobacz, co mówią liczby.
 

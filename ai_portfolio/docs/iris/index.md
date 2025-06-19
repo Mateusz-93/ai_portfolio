@@ -1,8 +1,22 @@
-# Fascynująca Analiza Danych EDA Irysów:
+# 🕵️‍♀️ Tajemnica Trzech Irisów — opowieść ukryta w kwiatach
 
-**Utworzono: 2025-06-12**
+Na pierwszy rzut oka to tylko liczby i miary, ale w ich cieniu kryje się prawdziwa zagadka natury.
 
-Zapraszamy do zapoznania się z wyjątkowym projektem, który przenosi nas w świat analizy danych irysów za pomocą eksploracji domenowej (EDA). W tym projekcie znajdziesz mnóstwo trafnych wniosków i ciekawych obserwacji, które rzucają nowe światło na te piękne kwiaty. Przygotuj się na fascynującą podróż przez dane, która z pewnością wzbogaci Twoją wiedzę i zainspiruje do dalszych badań.
+Podążając śladem gabarytów kielicha i płatków, odsłaniamy kod, który pozwala rozpoznać każdą z tych pięknych odmian.
+
+🌿 Irys Setosa — tajemniczy mistrz delikatności, skrywający się pod najszerszym kielichem i drobnymi płatkami.
+
+🍃 Irys Versicolor — balansujący na granicy, z kielichem i płatkami o średnich wymiarach, jakby strzegł równowagi między dwiema skrajnościami.
+
+🌸 Irys Virginica — potężny i wyrazisty, z największymi płatkami i najdłuższym kielichem, symbol siły i majestatu natury.
+
+
+Te dane to więcej niż liczby — to **klucz** do tajemnicy irysów.
+
+Zapraszam Cię do odkrycia tej historii, gdzie nauka spotyka się z magią natury.
+
+
+*Utworzono: 2025-06-12*
 
 <a href="eda_irysy.ipynb" class="md-button">Pobierz Notebook</a>
 
