@@ -8,19 +8,24 @@ Titanic nie wybierał.
 Ale dane pokazują, kto miał większą szansę.
 
 Nie pytam: „czy zginął?”.
-Pytam: „**dlaczego**?”.
+
+Pytam: „**dlaczego?**”.
 
 🔍 Sprawdzam, jak klasa biletu, wiek i płeć decydowały o szansach na ocalenie.
+
 📈 Dane, które przez dekady milczały, zaczynają mówić — o samotności na pokładzie i o podziałach, które nie znikają nawet w obliczu katastrofy.
 
 *To nie jest zwykła analiza.*
+
 *To historia opowiedziana przez liczby.*
+
 *Statystyczna podróż przez pokład Titanica.*
 
 Wejdź na pokład — i zobacz, co mówią liczby.
+
 🎧 Usłysz historię.
 
-**Utworzono: 2025-06-19**
+*Utworzono: 2025-06-19*
 
 
 <a href="eda_titanic.ipynb" class="md-button">Pobierz Notebook</a>
