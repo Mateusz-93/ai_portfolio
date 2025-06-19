@@ -11,17 +11,16 @@ Podążając śladem gabarytów kielicha i płatków, odsłaniamy kod, który po
 🌸 Irys Virginica — potężny i wyrazisty, z największymi płatkami i najdłuższym kielichem, symbol siły i majestatu natury.
 
 
-Te dane to więcej niż liczby — to **klucz** do tajemnicy irysów.
+W tej analizie dane stają się kluczem — a my stajemy się odkrywcami.
+To opowieść o różnicach, subtelnościach i wzorach, które umykają oczom, ale nie algorytmom.
 
-Zapraszam Cię do odkrycia tej historii, gdzie nauka spotyka się z magią natury.
+**Otwórz ten zbiór danych jak księgę natury. I przeczytaj, co mówi.**
 
 
-<p style="text-align: center; font-size: 1em; color: #999;">
-  <em>Utworzono: 2025-06-12</em>
-</p>
-<p style="text-align: center; font-size: 0.85em; color: #999;">
-© 2025 Mateusz Wilczewski
-</p>
+<div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
+  <em>Utworzono: 2025-06-12</em><br>
+  © 2025 Mateusz Wilczewski
+</div>
 
 <a href="eda_irysy.ipynb" class="md-button">Pobierz Notebook</a>
 
