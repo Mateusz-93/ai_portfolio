@@ -7,7 +7,7 @@
 
 ## 🧠 Co potrafi?
 
-1. **Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
+**1. Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
 2. **Wideo? Poproszę!** – przeciągnij plik (MP4, MPEG4, do 200 MB) i wrzuć go do eleganckiego drop-zone’u.
 3. **Wyodrębnij audio** – film to nie tylko obraz. MrEchoScribe wydzieli z niego samą ścieżkę dźwiękową.
 4. **Transkrybuj audio** – tekst z dźwięku, błyskawicznie i dokładnie. Dzięki AI, ale z ludzką jakością.
