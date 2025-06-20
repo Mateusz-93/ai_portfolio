@@ -1,14 +1,13 @@
-<h1 align="center">🖋️ MrEchoScribe 🎬</h1>
-<br>
-<h2 align="center">Twój dżentelmen od napisów filmowych</h2>
-<br><br>
-<h4 align="center">To inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst.</h4>
-<h4 align="center">On już wie, co robić!</h4>
-<br>
+<h1 align="center" style="margin-bottom: 0.2em;">🖋️ MrEchoScribe 🎬</h1>
+<h2 align="center" style="margin-top: 0;">Twój dżentelmen od napisów filmowych</h2>
+---
+<h4 align="center" style="margin-top: 2em; margin-bottom: 0;">To inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst.</h4>
+<h4 align="center" style="margin-top: 0.2em;">On już wie, co robić!</h4>
+---
 <div style="text-align: center;">
   <a href="https://mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
 </div>
-
+---
 ## 🧠 Co potrafi?
 
 1. **Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
@@ -71,8 +70,11 @@ Zadowolony? Zapisz transkrypcję, a następnie pobierz gotowe pliki:
 #### 🎉 Gotowe!
 Twój film ma już głos i tekst – elegancko zsynchronizowane.
 
+---
 
 <div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
   <em>Utworzono: 2025-06-21</em><br>
   © 2025 Mateusz Wilczewski
 </div>
+
+---
