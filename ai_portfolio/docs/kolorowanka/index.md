@@ -1,3 +1,5 @@
+<h1 align="center">✏️ Pencil Master</h1>
+<h2 align="center">kreatywna zabawa ze Sztuczną Inteligencją</h2>
 
 # ✏️ **Pencil Master** – kreatywna zabawa ze Sztuczną Inteligencją
 Witaj w moim kolejnym projekcie – interaktywnej aplikacji kolorowance opartej na technologii OpenAI! To nie tylko narzędzie do generowania obrazków – to przestrzeń, w której użytkownik wspólnie z AI tworzy wyjątkowe, czarno-białe ilustracje gotowe do pokolorowania 🎨

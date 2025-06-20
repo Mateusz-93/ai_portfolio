@@ -1,7 +1,7 @@
 <h1 align="center">🖋️ MrEchoScribe 🎬</h1>
-<h1 align="center">Twój dżentelmen od napisów filmowych</h1>
+<h2 align="center">Twój dżentelmen od napisów filmowych</h2>
 
-**MrEchoScribe** to inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst. Potrzebujesz napisów? On już wie, co robić.
+<h4 align="center">To inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst. Potrzebujesz napisów? On już wie, co robić.</h4>
 
 <div style="text-align: center;">
   <a href="https://mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
@@ -23,6 +23,8 @@ Dla filmowców, twórców internetowych, edukatorów, tłumaczy, montażystów �
 ---
 
 <h3 align="center">MrEchoScribe – bo każde echo zasługuje na swój zapis.</h3>
+
+---
 
 ## 🎬 Jak to działa?
 
