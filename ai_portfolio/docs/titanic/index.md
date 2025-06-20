@@ -31,7 +31,7 @@ Wejdź na pokład — i zobacz, co mówią liczby.
 
 <a href="eda_titanic.ipynb" class="md-button">Pobierz Notebook</a>
 
-<a href="eda_titanic.slides.html" class="md-button md-button--primary">Zobacz prezentację w nowej karcie</a>
+<a href="eda_titanic.slides.html" class="md-button md-button--primary" target="_blank">Zobacz prezentację w nowej karcie</a>
 
 <iframe
     id="content"

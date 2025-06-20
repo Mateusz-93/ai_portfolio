@@ -24,7 +24,7 @@ To opowieść o różnicach, subtelnościach i wzorach, które umykają oczom, a
 
 <a href="eda_irysy.ipynb" class="md-button">Pobierz Notebook</a>
 
-<a href="eda_irysy.slides.html" class="md-button md-button--primary">Zobacz prezentację w nowej karcie</a>
+<a href="eda_irysy.slides.html" class="md-button md-button--primary" target="_blank">Zobacz prezentację w nowej karcie</a>
 
 <iframe
     id="content"
