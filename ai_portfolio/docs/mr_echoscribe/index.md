@@ -1,13 +1,15 @@
-# 🖋️🎬 MrEchoScribe – Twój dżentelmen od napisów filmowych
+<h1 align="center">🖋️ MrEchoScribe 🎬</h1>
+<h1 align="center">Twój dżentelmen od napisów filmowych</h1>
+
 **MrEchoScribe** to inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst. Potrzebujesz napisów? On już wie, co robić.
 
 <div style="text-align: center;">
-  <a href="mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
+  <a href="https://mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
 </div>
 
 ## 🧠 Co potrafi?
 
-**1. Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
+1. **Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
 2. **Wideo? Poproszę!** – przeciągnij plik (MP4, MPEG4, do 200 MB) i wrzuć go do eleganckiego drop-zone’u.
 3. **Wyodrębnij audio** – film to nie tylko obraz. MrEchoScribe wydzieli z niego samą ścieżkę dźwiękową.
 4. **Transkrybuj audio** – tekst z dźwięku, błyskawicznie i dokładnie. Dzięki AI, ale z ludzką jakością.
@@ -20,7 +22,7 @@ Dla filmowców, twórców internetowych, edukatorów, tłumaczy, montażystów �
 
 ---
 
-MrEchoScribe – bo każde echo zasługuje na swój zapis.
+<h3 align="center">MrEchoScribe – bo każde echo zasługuje na swój zapis.</h3>
 
 ## 🎬 Jak to działa?
 
