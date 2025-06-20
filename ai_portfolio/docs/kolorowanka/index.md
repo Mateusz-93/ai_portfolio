@@ -1,11 +1,17 @@
 <h1 align="center" style="margin-bottom: 0.2em;">✏️ Pencil Master 📖</h1>
 <h2 align="center" style="margin-top: 0;">kreatywna zabawa ze Sztuczną Inteligencją</h2>
 
+---
+
 Witaj w moim kolejnym projekcie – interaktywnej aplikacji kolorowance opartej na technologii OpenAI! To nie tylko narzędzie do generowania obrazków – to przestrzeń, w której użytkownik wspólnie z AI tworzy wyjątkowe, czarno-białe ilustracje gotowe do pokolorowania 🎨
+
+---
 
 <div style="text-align: center;">
   <a href="https://pencil-master.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
 </div>
+
+---
 
 ## ✨ **Co potrafi aplikacja?**
 - **Twórz własne kolorowanki** – wystarczy wpisać temat (np. „kotki i pieski na nartach”), a AI przekształci Twoją wizję w barwny – choć jeszcze czarno-biały – opis.

@@ -1,4 +1,7 @@
-# 🕵️‍♀️ Tajemnica Trzech Irisów — opowieść ukryta w kwiatach
+<h1 align="center" style="margin-bottom: 0.2em;">🕵️‍♀️ Tajemnica Trzech Irisów</h1>
+<h1 align="center" style="margin-top: 0;">opowieść ukryta w kwiatach</h1>
+
+---
 
 Na pierwszy rzut oka to tylko liczby i miary, ale w ich cieniu kryje się prawdziwa zagadka natury.
 
@@ -16,15 +19,20 @@ To opowieść o różnicach, subtelnościach i wzorach, które umykają oczom, a
 
 **Otwórz ten zbiór danych jak księgę natury. I przeczytaj, co mówi.**
 
+---
 
 <div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
   <em>Utworzono: 2025-06-12</em><br>
   © 2025 Mateusz Wilczewski
 </div>
 
+---
+
 <a href="eda_irysy.ipynb" class="md-button">Pobierz Notebook</a>
 
 <a href="eda_irysy.slides.html" class="md-button md-button--primary" target="_blank">Zobacz prezentację w nowej karcie</a>
+
+---
 
 <iframe
     id="content"
@@ -47,6 +55,11 @@ window.addEventListener('resize', function() {
 });
 </script>
 
-<p style="text-align: center; font-size: 0.85em; color: #999;">
-© 2025 Mateusz Wilczewski
-</p>
+---
+
+<div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
+  <em>Utworzono: 2025-06-12</em><br>
+  © 2025 Mateusz Wilczewski
+</div>
+
+---

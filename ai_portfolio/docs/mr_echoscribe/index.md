@@ -17,6 +17,8 @@
 5. **Edytuj** – masz pełną kontrolę. Popraw, dopisz, przesuń. Napisy są Twoje.
 6. **Zapisz i pobierz** – napisy w formacie `.srt` i audio w `.mp3` gotowe do pobrania jednym kliknięciem.
 
+---
+
 ## 🎯 Dla kogo?
 
 Dla filmowców, twórców internetowych, edukatorów, tłumaczy, montażystów – wszystkich, którzy chcą, by ich treść była czytelna, dostępna i gotowa na więcej.

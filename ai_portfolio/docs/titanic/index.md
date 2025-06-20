@@ -1,4 +1,7 @@
-# 🚢 **Titanic**: opowieść o ludziach zapisana w danych
+<h1 align="center" style="margin-bottom: 0.2em;">🚢 Titanic</h1>
+<h1 align="center" style="margin-top: 0;">opowieść o ludziach zapisana w danych</h1>
+
+---
 
 Gdy w 1912 roku Titanic wyruszał w swój pierwszy rejs, nikt nie przypuszczał, że stanie się symbolem marzeń, tragedii — i... danych, które przetrwają wszystko.
 
@@ -24,14 +27,20 @@ Wejdź na pokład — i zobacz, co mówią liczby.
 
 🎧 Usłysz historię.
 
+---
+
 <div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
   <em>Utworzono: 2025-06-19</em><br>
   © 2025 Mateusz Wilczewski
 </div>
 
+---
+
 <a href="eda_titanic.ipynb" class="md-button">Pobierz Notebook</a>
 
 <a href="eda_titanic.slides.html" class="md-button md-button--primary" target="_blank">Zobacz prezentację w nowej karcie</a>
+
+---
 
 <iframe
     id="content"
@@ -54,7 +63,9 @@ window.addEventListener('resize', function() {
 });
 </script>
 
-
-<p style="text-align: center; font-size: 0.85em; color: #999;">
-© 2025 Mateusz Wilczewski
-</p>
+---
+<div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
+  <em>Utworzono: 2025-06-19</em><br>
+  © 2025 Mateusz Wilczewski
+</div>
+---
