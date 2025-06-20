@@ -27,10 +27,11 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - "App'ka kolorowanka": kolorowanka/index.md
+  - "MrEchoScribe": mr_echoscribe/index.md
 - Poprzednie projekty:
   - "Titanic": titanic/index.md
   - "Iris": iris/index.md
+  - "Pencil Master": kolorowanka/index.md
 
 extra:
   social:
