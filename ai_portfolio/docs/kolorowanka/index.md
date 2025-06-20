@@ -21,7 +21,7 @@ Witaj w moim kolejnym projekcie – interaktywnej aplikacji kolorowance opartej 
 ## 🔑 Wymagania
 Do korzystania z aplikacji wymagany jest klucz API OpenAI. Dzięki temu możesz tworzyć własne kolorowanki w jakości, która naprawdę zaskakuje.
 
-## Krok po kroku
+
 ## 🚀 Jak to działa?
 
 ### 1. Wprowadź temat kolorowanki
@@ -44,6 +44,9 @@ Po kliknięciu przycisku, AI tworzy kolorowankę gotową do pobrania.
 
 ![Kolorowanka](pencil_master_4.png)
 
+#### 🎉 I gotowe!
+Możesz teraz pobrać swoją kolorowankę albo rozpocząć nowy projekt.
+
 ### 5. Zajrzyj do zakładki „Style i przykłady”
 W lewym górnym rogu znajdziesz zakładkę z dodatkowymi informacjami i przykładami stylów. 
 
@@ -53,8 +56,6 @@ Po wybraniu pokaże Ci się rozwijane menu.
 
 ![Opisy i przykłady](pencil_master_6.png)
 
-### 🎉 I gotowe!
-Możesz teraz pobrać swoją kolorowankę albo rozpocząć nowy projekt.
 
 
 <div style="text-align: center; font-size: 0.85em; color: #999; margin-top: 3em;">
