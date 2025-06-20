@@ -1,16 +1,10 @@
 <h1 align="center">🖋️ MrEchoScribe 🎬</h1>
-
 <br>
-
 <h2 align="center">Twój dżentelmen od napisów filmowych</h2>
-
 <br><br>
-
 <h4 align="center">To inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst.</h4>
 <h4 align="center">On już wie, co robić!</h4>
-
 <br>
-
 <div style="text-align: center;">
   <a href="https://mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
 </div>
