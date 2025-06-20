@@ -1,4 +1,7 @@
-<h1 align="center">✏️ Pencil Master</h1>
+<h1 align="center">✏️ Pencil Master 📄</h1>
+
+<br>
+
 <h2 align="center">kreatywna zabawa ze Sztuczną Inteligencją</h2>
 
 # ✏️ **Pencil Master** – kreatywna zabawa ze Sztuczną Inteligencją
