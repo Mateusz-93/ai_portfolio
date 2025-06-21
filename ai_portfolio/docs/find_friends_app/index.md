@@ -5,8 +5,8 @@
 
 <h4 align="center" style="margin-top: 2em; margin-bottom: 0;">Witaj, poszukiwaczu tożsamości i bratnich dusz!</h4>
 <h4 align="center" style="margin-top: 0.2em;">Twoja podróż przez świat ankiet, danych i czarów właśnie się zaczyna.</h4>
-<h4 align="center" style="margin-top: 0.2em;">W tej aplikacji nie ma różdżek, ale za to jest... <strong>uczenie maszynowe.</strong></h4>
-<h4 align="center" style="margin-top: 0.2em;">A ono – uwierz lub nie – potrafi powiedzieć o Tobie więcej, niż myślisz.</h4>
+<h4 align="center" style="margin-top: 0.1em;" font-weight: normal;>W tej aplikacji nie ma różdżek, ale za to jest... <strong>uczenie maszynowe.</strong></h4>
+<h4 align="center" style="margin-top: 0.1em;">A ono – uwierz lub nie – potrafi powiedzieć o Tobie więcej, niż myślisz.</h4>
 
 ---
 
@@ -16,12 +16,15 @@
 
 ---
 
-## 🔮 Jak to działa?
+## **🔮 Jak to działa?**
 1. Wypełnij ankietę po lewej stronie – podaj swój wiek, poziom wykształcenia, płeć, a także ulubione miejsce i zwierzęta.
 2. Kliknij „**Oczaruj mnie!**” i pozwól magii działać:
+
 - model `PyCaret` dopasuje Cię do jednej z tajemniczych grup (klastrów),
 - aplikacja pokaże Ci opis Twojej grupy oraz barwne wizualizacje porównujące Cię z innymi.
+
 3. Dowiesz się:
+
 - jak się nazywa Twoja grupa (np. Leśni Filozofowie, Górscy Poszukiwacze Przygód)
 - ile osób należy do niej wraz z Tobą,
 - jak wyglądają inni: ich wiek, wykształcenie, płeć i preferencje.
@@ -29,7 +32,7 @@
 
 ---
 
-## ✨ Dla kogo?
+## **✨ Dla kogo?**
 - Dla każdego, kto choć raz w życiu czuł się **trochę z innego świata**.
 
 - Dla tych, którzy wierzą, że **dane też mają duszę**.
@@ -43,8 +46,10 @@
 
 ---
 
-## 🎆 Technologia
+## **🎆 Technologie**
+
 W tej aplikacji klasyczna magia spotyka nowoczesne technologie. Oto zaklęcia i eliksiry, które tworzą Tiary Przydziału 2 i ⅔
+
 - **Python** - Język zaklęć, na którym opiera się cała aplikacja.
 - **Streamlit** - Interaktywny interfejs użytkownika, dzięki któremu możesz poczuć się jak w cyfrowej chatce czarodzieja.
 - **PyCaret (clustering)** - Model klastrowania, który niczym Tiara Przydziału analizuje Twoje cechy i przypisuje Cię do odpowiedniej grupy.
