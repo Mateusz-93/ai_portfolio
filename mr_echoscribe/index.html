@@ -386,6 +386,24 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#technologie" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛠️ Technologie
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wymagania" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔑 Wymagania
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#jak-to-dziaa" class="md-nav__link">
     <span class="md-ellipsis">
       🎬 Jak to działa?
@@ -526,7 +544,7 @@
   
   
   <span class="md-ellipsis">
-    Titanic
+    Titanic - analiza
     
   </span>
   
@@ -549,7 +567,7 @@
   
   
   <span class="md-ellipsis">
-    Iris
+    Iris - analiza
     
   </span>
   
@@ -627,6 +645,24 @@
   <a href="#dla-kogo" class="md-nav__link">
     <span class="md-ellipsis">
       🎯 Dla kogo?
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#technologie" class="md-nav__link">
+    <span class="md-ellipsis">
+      🛠️ Technologie
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#wymagania" class="md-nav__link">
+    <span class="md-ellipsis">
+      🔑 Wymagania
     </span>
   </a>
   
@@ -728,17 +764,19 @@
 
 <h1 align="center" style="margin-bottom: 0.2em;">🖋️ MrEchoScribe 🎬</h1>
 <h2 align="center" style="margin-top: 0;">Twój dżentelmen od napisów filmowych</h2>
+
 <hr />
 <h4 align="center" style="margin-top: 2em; margin-bottom: 0;">To inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst.</h4>
 <h4 align="center" style="margin-top: 0.2em;">On już wie, co robić!</h4>
+
 <hr />
 <div style="text-align: center;">
   <a href="https://mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
 </div>
+
 <hr />
 <h2 id="co-potrafi">🧠 Co potrafi?</h2>
 <ol>
-<li><strong>Klucz API OpenAI</strong> – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.</li>
 <li><strong>Wideo? Poproszę!</strong> – przeciągnij plik (MP4, MPEG4, do 200 MB) i wrzuć go do eleganckiego drop-zone’u.</li>
 <li><strong>Wyodrębnij audio</strong> – film to nie tylko obraz. MrEchoScribe wydzieli z niego samą ścieżkę dźwiękową.</li>
 <li><strong>Transkrybuj audio</strong> – tekst z dźwięku, błyskawicznie i dokładnie. Dzięki AI, ale z ludzką jakością.</li>
@@ -751,6 +789,22 @@
 <hr />
 <h3 align="center">MrEchoScribe – bo każde echo zasługuje na swój zapis.</h3>
 
+<hr />
+<h2 id="technologie">🛠️ <strong>Technologie</strong></h2>
+<ul>
+<li><strong>Python</strong> – główny język aplikacji: logika, przetwarzanie dźwięku, integracje API</li>
+<li><strong>Streamlit</strong> – szybki framework do budowy aplikacji webowych opartych na Pythonie</li>
+<li><strong>OpenAI API (Whisper)</strong> – automatyczna transkrypcja mowy do formatu <code>.srt</code></li>
+<li><strong>Pydub</strong> – ekstrakcja i konwersja ścieżki dźwiękowej z pliku wideo do formatu <code>.mp3</code></li>
+<li><strong>hashlib / base64 / io</strong> – narzędzia pomocnicze do identyfikacji plików, pracy z buforami i osadzania obrazów</li>
+<li><strong>Qdrant Client</strong> – klient bazy wektorowej (w projekcie obecny jako komponent przyszłościowy)</li>
+<li><strong>dotenv</strong> – bezpieczne wczytywanie danych konfiguracyjnych (np. kluczy API)</li>
+</ul>
+<hr />
+<h2 id="wymagania">🔑 Wymagania</h2>
+<ul>
+<li><strong>Klucz API OpenAI</strong> – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.</li>
+</ul>
 <hr />
 <h2 id="jak-to-dziaa">🎬 Jak to działa?</h2>
 <h3 id="1-wprowadz-swoj-klucz-api-openai">1. Wprowadź swój klucz API OpenAI</h3>
