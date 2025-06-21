@@ -24,9 +24,10 @@ Witaj w moim kolejnym projekcie – interaktywnej aplikacji kolorowance opartej 
 
 ## 🛠️ **Technologie**
 - **Streamlit** – prosty, responsywny interfejs webowy
-- **OpenAI API** – generowanie opisów i obrazów
+- **OpenAI API (ChatGPT & DALL·E 3)** – generowanie opisów i obrazów
 - **Python** – logika aplikacji i przetwarzanie danych
-
+- **dotenv** – bezpieczne wczytywanie danych konfiguracyjnych (np. kluczy API)
+- **requests** - pobieranie obrazów z linku wygenerowanego przez DALL·E 3
 ---
 
 ## 🔑 Wymagania

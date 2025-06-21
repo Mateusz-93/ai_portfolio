@@ -1,21 +1,26 @@
 <h1 align="center" style="margin-bottom: 0.2em;">🖋️ MrEchoScribe 🎬</h1>
 <h2 align="center" style="margin-top: 0;">Twój dżentelmen od napisów filmowych</h2>
+
 ---
+
 <h4 align="center" style="margin-top: 2em; margin-bottom: 0;">To inteligentny asystent, który z gracją i precyzją zamienia dźwięk z filmu na tekst.</h4>
 <h4 align="center" style="margin-top: 0.2em;">On już wie, co robić!</h4>
+
 ---
+
 <div style="text-align: center;">
   <a href="https://mr-echo-scribe.streamlit.app/" class="md-button md-button--primary" target="_blank">Zobacz aplikację w nowej karcie</a>
 </div>
+
 ---
+
 ## 🧠 Co potrafi?
 
-1. **Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
-2. **Wideo? Poproszę!** – przeciągnij plik (MP4, MPEG4, do 200 MB) i wrzuć go do eleganckiego drop-zone’u.
-3. **Wyodrębnij audio** – film to nie tylko obraz. MrEchoScribe wydzieli z niego samą ścieżkę dźwiękową.
-4. **Transkrybuj audio** – tekst z dźwięku, błyskawicznie i dokładnie. Dzięki AI, ale z ludzką jakością.
-5. **Edytuj** – masz pełną kontrolę. Popraw, dopisz, przesuń. Napisy są Twoje.
-6. **Zapisz i pobierz** – napisy w formacie `.srt` i audio w `.mp3` gotowe do pobrania jednym kliknięciem.
+1. **Wideo? Poproszę!** – przeciągnij plik (MP4, MPEG4, do 200 MB) i wrzuć go do eleganckiego drop-zone’u.
+2. **Wyodrębnij audio** – film to nie tylko obraz. MrEchoScribe wydzieli z niego samą ścieżkę dźwiękową.
+3. **Transkrybuj audio** – tekst z dźwięku, błyskawicznie i dokładnie. Dzięki AI, ale z ludzką jakością.
+4. **Edytuj** – masz pełną kontrolę. Popraw, dopisz, przesuń. Napisy są Twoje.
+5. **Zapisz i pobierz** – napisy w formacie `.srt` i audio w `.mp3` gotowe do pobrania jednym kliknięciem.
 
 ---
 
@@ -26,6 +31,22 @@ Dla filmowców, twórców internetowych, edukatorów, tłumaczy, montażystów �
 ---
 
 <h3 align="center">MrEchoScribe – bo każde echo zasługuje na swój zapis.</h3>
+
+---
+
+## 🛠️ **Technologie**
+- **Python** – główny język aplikacji: logika, przetwarzanie dźwięku, integracje API
+- **Streamlit** – szybki framework do budowy aplikacji webowych opartych na Pythonie
+- **OpenAI API (Whisper)** – automatyczna transkrypcja mowy do formatu `.srt`
+- **Pydub** – ekstrakcja i konwersja ścieżki dźwiękowej z pliku wideo do formatu `.mp3`
+- **hashlib / base64 / io** – narzędzia pomocnicze do identyfikacji plików, pracy z buforami i osadzania obrazów
+- **Qdrant Client** – klient bazy wektorowej (w projekcie obecny jako komponent przyszłościowy)
+- **dotenv** – bezpieczne wczytywanie danych konfiguracyjnych (np. kluczy API)
+
+---
+
+## 🔑 Wymagania
+- **Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
 
 ---
 

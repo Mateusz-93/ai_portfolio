@@ -29,8 +29,8 @@ nav:
 - Obecny projekt:
   - "MrEchoScribe": mr_echoscribe/index.md
 - Poprzednie projekty:
-  - "Titanic": titanic/index.md
-  - "Iris": iris/index.md
+  - "Titanic - analiza": titanic/index.md
+  - "Iris - analiza": iris/index.md
   - "Pencil Master": kolorowanka/index.md
 
 extra:
