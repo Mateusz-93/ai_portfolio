@@ -3,10 +3,10 @@
 
 ---
 
-<h4 align="center" style="margin-top: 2em; margin-bottom: 0;">Witaj, poszukiwaczu tożsamości i bratnich dusz!</h4>
-<h4 align="center" style="margin-top: 0.2em;">Twoja podróż przez świat ankiet, danych i czarów właśnie się zaczyna.</h4>
-<h4 align="center" style="margin-top: 0.1em;" font-weight: normal;>W tej aplikacji nie ma różdżek, ale za to jest... <strong>uczenie maszynowe.</strong></h4>
-<h4 align="center" style="margin-top: 0.1em;">A ono – uwierz lub nie – potrafi powiedzieć o Tobie więcej, niż myślisz.</h4>
+<h4 align="center" style="margin-top: 0.2em; margin-bottom: 0;">Witaj, poszukiwaczu tożsamości i bratnich dusz!</h4>
+<h4 align="center" style="margin-top: 0.2em; margin-bottom: 0;">Twoja podróż przez świat ankiet, danych i czarów właśnie się zaczyna.</h4>
+<h4 align="center" style="margin-top: 0.2em; margin-bottom: 0;">W tej aplikacji nie ma różdżek, ale za to jest... <strong>uczenie maszynowe.</strong></h4>
+<h4 align="center" style="margin-top: 0.2em; margin-bottom: 0;">A ono – uwierz lub nie – potrafi powiedzieć o Tobie więcej, niż myślisz.</h4>
 
 ---
 
@@ -20,14 +20,14 @@
 1. Wypełnij ankietę po lewej stronie – podaj swój wiek, poziom wykształcenia, płeć, a także ulubione miejsce i zwierzęta.
 2. Kliknij „**Oczaruj mnie!**” i pozwól magii działać:
 
-- model `PyCaret` dopasuje Cię do jednej z tajemniczych grup (klastrów),
-- aplikacja pokaże Ci opis Twojej grupy oraz barwne wizualizacje porównujące Cię z innymi.
+  - model `PyCaret` dopasuje Cię do jednej z tajemniczych grup (klastrów),
+  - aplikacja pokaże Ci opis Twojej grupy oraz barwne wizualizacje porównujące Cię z innymi.
 
 3. Dowiesz się:
 
-- jak się nazywa Twoja grupa (np. Leśni Filozofowie, Górscy Poszukiwacze Przygód)
-- ile osób należy do niej wraz z Tobą,
-- jak wyglądają inni: ich wiek, wykształcenie, płeć i preferencje.
+  - jak się nazywa Twoja grupa (np. Leśni Filozofowie, Górscy Poszukiwacze Przygód)
+  - ile osób należy do niej wraz z Tobą,
+  - jak wyglądają inni: ich wiek, wykształcenie, płeć i preferencje.
 
 
 ---

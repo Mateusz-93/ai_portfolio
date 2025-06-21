@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 0.2em;">🚢 Titanic</h1>
+<h1 align="center" style="margin-bottom: 0.2em;">🚢 <strong>Titanic</strong></h1>
 <h1 align="center" style="margin-top: 0;">opowieść o ludziach zapisana w danych</h1>
 
 ---

@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 0.2em;">🕵️‍♀️ Tajemnica Trzech Irisów</h1>
+<h1 align="center" style="margin-bottom: 0.2em;">🕵️‍♀️ <strong>Tajemnica Trzech Irisów</strong></h1>
 <h1 align="center" style="margin-top: 0;">opowieść ukryta w kwiatach</h1>
 
 ---
