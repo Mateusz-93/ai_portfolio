@@ -28,12 +28,13 @@ nav:
 - Strona Domowa: index.md
 - Obecny projekt:
   - "RunAlyze AI": runalyze_ai_app/index.md
-- Poprzednie projekty:
-  - "Titanic - analiza": titanic/index.md
-  - "Iris - analiza": iris/index.md
+- Aplikacje:
   - "Pencil Master": kolorowanka/index.md
   - "MrEchoScribe": mr_echoscribe/index.md
   - "Find Friends": find_friends_app/index.md
+- Analizy:
+  - "Titanic - analiza": titanic/index.md
+  - "Iris - analiza": iris/index.md
 
 extra:
   social:
