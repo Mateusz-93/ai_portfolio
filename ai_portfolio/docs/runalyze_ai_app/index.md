@@ -48,36 +48,16 @@ Dla biegaczy, trenerów, analityków sportowych i pasjonatów danych – dla ka�
 
 ---
 
+
 ## 🚀 Jak to działa?
-
-### 1. Wprowadź dane
-Wypełnij pole tekstowe – AI wyłapie najważniejsze informacje: czas, płeć, rok urodzenia.
-
----
-
-### 2. Zobacz predykcję  
-Aplikacja porówna Twoje dane z danymi tysięcy biegaczy i oszacuje Twój wynik.
-
----
-
-### 3. Analizuj na wykresie  
-Twój punkt zostanie wyróżniony 🏅 na tle innych uczestników – zobacz, gdzie się znajdujesz.
-
----
-
-### 4. Eksploruj i porównuj  
-Możesz zmieniać dane i sprawdzać, jak wpływa to na przewidywany wynik – idealne do celów treningowych.
-
----
-
-
-## 🖼️ Zrzuty ekranu
 
 ### 1. Wprowadź dane 📝
 
 *To pierwszy krok. Bez niego RunAlyze AI nie ruszy.*
-![Wprowadź dane](runalyze_ai_01.png)
 
+<div style="text-align: center;">
+  <img src="runalyze_ai_01.png" alt="Wprowadź dane" style="max-width: 100%; height: auto;">
+</div>
 ---
 
 ### 2. Analiza i predykcja 🤖
@@ -93,7 +73,9 @@ Zobacz swój punkt (🏅) na interaktywnym wykresie. Możesz porównać się z i
 🎯 Zobacz, czy jesteś bliżej czołówki, czy peletonu!
 
 ![Rok](runalyze_ai_03.png)
-![Wykres](runalyze_ai_04.png)
+<div style="text-align: center;">
+  <img src="runalyze_ai_04.png" alt="Wykres" style="max-width: 100%; height: auto;">
+</div>
 
 ### 4. Testuj różne scenariusze 🔁
 Zmień wiek, czas, płeć albo rok i zobacz, jak zmienia się Twoja pozycja.
