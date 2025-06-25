@@ -70,7 +70,7 @@ Model uczenia maszynowego błyskawicznie analizuje Twoje dane i przewiduje Twój
 </div>
 ---
 
-### 3️⃣ Twoje miejsce na wykresie 📊
+### 3️⃣ Pozycja na wykresie 📊
 
 Zobacz swój punkt (🏅) na interaktywnym wykresie. Możesz porównać się z innymi biegaczami w podobnym wieku i tej samej płci.
 🎯 Zobacz, czy jesteś bliżej czołówki, czy peletonu!
@@ -85,7 +85,7 @@ Zobacz swój punkt (🏅) na interaktywnym wykresie. Możesz porównać się z i
   <img src="runalyze_ai_04.png" alt="Wykres" style="max-width: 100%; height: auto;">
 </div>
 
-### 4️⃣ Testuj różne scenariusze 🔁
+### 4️⃣ Testuj scenariusze 🔁
 Zmień wiek, czas, płeć albo rok i zobacz, jak zmienia się Twoja pozycja.
 Idealne, jeśli chcesz symulować formę, planować progres lub ustalać cele treningowe.
 
