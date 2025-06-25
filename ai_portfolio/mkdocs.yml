@@ -25,7 +25,7 @@ theme:
         name: Przełącz na tryb jasny
 
 nav:
-- O mnie: index.md
+- 🔍 O mnie: index.md
 - Obecny projekt:
   - "RunAlyze AI": runalyze_ai_app/index.md
 - Aplikacje:
