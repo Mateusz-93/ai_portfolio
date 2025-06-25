@@ -32,52 +32,51 @@ Chcę, by technologia była **czytelna, użyteczna i ludzka**.
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5em; margin-top: 2em;">
 
 <a href="runalyze_ai_app/index.html" style="text-decoration: none;">
-  <div style="border: 1px solid #ccc; border-radius: 8px; width: 300px; padding: 1em;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1.2em;">
     <h3 align="center">🏃 <strong>RunAlyze AI </strong>📊</h3>
     <p>Twój asystent predykcji czasu półmaratonu</p>
   </div>
 </a>
 
 <a href="mr_echoscribe/index.html" style="text-decoration: none;">
-  <div style="border: 1px solid #ccc; border-radius: 8px; width: 300px; padding: 1em;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1.2em;">
     <h3 align="center">🖋️ <strong>MrEchoScribe</strong> 🎬</h3>
     <p>Twój dżentelmen od napisów filmowych</p>
   </div>
 </a>
 
 <a href="kolorowanka/index.html" style="text-decoration: none;">
-  <div style="border: 1px solid #ccc; border-radius: 8px; width: 300px; padding: 1em;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1.2em;">
     <h3 align="center">✏️ <strong>Pencil Master</strong> 📖</h3>
     <p>kreatywna zabawa ze Sztuczną Inteligencją</p>
   </div>
 </a>
 
 <a href="find_friends_app/index.html" style="text-decoration: none;">
-  <div style="border: 1px solid #ccc; border-radius: 8px; width: 300px; padding: 1em;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1.2em;">
     <h3 align="center">🧙‍♂️ <strong>Tiara Przydziału 2 i ⅔ </strong></h3>
     <p>Zobacz, gdzie zaprowadzi Cię magia danych!</p>
   </div>
 </a>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5em; margin-top: 2em;">
 
 </div>
 
 ---
 
-## 🚀 Analizy
+## 📊 Analizy
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5em; margin-top: 2em;">
 
 <a href="iris/index.html" style="text-decoration: none;">
-  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1em;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1.2em;">
     <h3 align="center">🕵️‍♀️ <strong>Tajemnica Trzech Irisów</strong></h3>
     <p>opowieść ukryta w kwiatach</p>
   </div>
 </a>
 
 <a href="titanic/index.html" style="text-decoration: none;">
-  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1em;">
+  <div style="border: 1px solid #ccc; border-radius: 8px; width: 280px; min-width: 240px; padding: 1.2em;">
     <h3 align="center">🚢 <strong>Titanic</strong></h3>
     <p>opowieść o ludziach zapisana w danych</p>
   </div>
@@ -96,19 +95,6 @@ Zapraszam:
 - 💼 [LinkedIn](https://linkedin.com/in/twoj-profil)  
 - 🐙 [GitHub](https://github.com/Mateusz-93)
 
----
-
-<details>
-<summary>📦 Pełna lista projektów</summary>
-
-- RunAlyze AI
-- MrEchoScribe
-- Pencil Master
-- Tiara Przydziału
-- Iris
-- Titanic
-
-</details>
 
 ---
 
