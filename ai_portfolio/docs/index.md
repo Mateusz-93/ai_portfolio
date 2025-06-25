@@ -1,5 +1,3 @@
----
-
 <h1 align="center" style="margin-bottom: 0.2em;">📊 <strong>Mateusz Wilczewski – Portfolio</strong></h1>
 <h3 align="center" style="margin-top: 0;">Analityka danych | AI | Aplikacje webowe</h3>
 
@@ -21,26 +19,26 @@ Chcę, by technologia była **czytelna, użyteczna i ludzka**.
 
 ## 🧰 **Technologie**, z których korzystam:
 
-- **Programowanie i przetwarzanie danych**
-    - Python – serce każdej aplikacji: logika, analiza, przetwarzanie
-    - Pandas, NumPy – przygotowanie, transformacja i eksploracja danych
-    - Pydub, io, hashlib – praca z multimediami i danymi binarnymi
-- **Analiza i modelowanie**
-    - PyCaret – automatyczne modelowanie: klasyfikacja, regresja i klastrowanie
-    - Langfuse – śledzenie i analiza interakcji z modelami LLM
-- **Wizualizacja i interfejs**
-    - Streamlit – szybkie prototypowanie i budowa aplikacji webowych
-    - Plotly – interaktywne wykresy i dynamiczna wizualizacja danych
-- **Sztuczna inteligencja i API**
-    - OpenAI API (ChatGPT, Whisper, DALL·E) – przetwarzanie języka, transkrypcja i generowanie obrazów
-    - Qdrant – baza wektorowa (rozszerzalna infrastruktura do pracy z embeddingami)
-- **Chmura i infrastruktura**
-    - boto3, s3fs, fsspec – integracja z AWS S3 i zarządzanie plikami
-    - dotenv – zarządzanie konfiguracją i bezpieczne przechowywanie kluczy API
-- **Praca i wersjonowanie**
-    - Visual Studio Code – mój codzienny edytor kodu – lekki, elastyczny i potężny
-    - Git – wersjonowanie projektów i współpraca
-    - Markdown – dokumentacja, notatki, prezentacja projektów
+- **Programowanie i przetwarzanie danych** 🐍
+    - **Python** – serce każdej aplikacji: logika, analiza, przetwarzanie
+    - **Pandas**, **NumPy** – przygotowanie, transformacja i eksploracja danych
+    - **Pydub**, **io**, **hashlib** – praca z multimediami i danymi binarnymi
+- **Analiza i modelowanie** 📈
+    - **PyCaret** – automatyczne modelowanie: klasyfikacja, regresja i klastrowanie
+    - **Langfuse** – śledzenie i analiza interakcji z modelami LLM
+- **Wizualizacja i interfejs** 🎨
+    - **Streamlit** – szybkie prototypowanie i budowa aplikacji webowych
+    - **Plotly** – interaktywne wykresy i dynamiczna wizualizacja danych
+- **Sztuczna inteligencja i API** 🤖
+    - **OpenAI API** (ChatGPT, Whisper, DALL·E) – przetwarzanie języka, transkrypcja i generowanie obrazów
+    - **Qdrant** – baza wektorowa (rozszerzalna infrastruktura do pracy z embeddingami)
+- **Chmura i infrastruktura** ☁️
+    - **boto3**, **s3fs**, **fsspec** – integracja z AWS S3 i zarządzanie plikami
+    - **dotenv** – zarządzanie konfiguracją i bezpieczne przechowywanie kluczy API
+- **Praca i wersjonowanie** 🧪
+    - **Visual Studio Code** – mój codzienny edytor kodu – lekki, elastyczny i potężny
+    - **Git** – wersjonowanie projektów i współpraca
+    - **Markdown** – dokumentacja, notatki, prezentacja projektów
 
 
 
