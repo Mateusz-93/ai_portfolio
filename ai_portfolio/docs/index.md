@@ -1,5 +1,9 @@
+---
+title: 🔍 O mnie
+---
+
 <h1 align="center" style="margin-bottom: 0.2em;">📊 <strong>Mateusz Wilczewski – Portfolio</strong></h1>
-<h3 align="center" style="margin-top: 0;">Analityka danych | AI | Aplikacje webowe</h3>
+<h3 align="center" style="margin-top: 0;">Data Science | AI | Aplikacje webowe</h3>
 
 ---
 
