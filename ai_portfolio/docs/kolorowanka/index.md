@@ -30,12 +30,12 @@ Witaj w moim kolejnym projekcie – interaktywnej aplikacji kolorowance opartej 
 - **requests** - pobieranie obrazów z linku wygenerowanego przez DALL·E 3
 ---
 
-## 🔑 Wymagania
+## 🔑 **Wymagania**
 Do korzystania z aplikacji wymagany jest klucz API OpenAI. Dzięki temu możesz tworzyć własne kolorowanki w jakości, która naprawdę zaskakuje.
 
 ---
 
-## 🚀 Jak to działa?
+## 🚀 **Jak to działa?**
 
 ### 1. Wprowadź temat kolorowanki
 Użytkownik wpisuje, co chce zobaczyć (np. „koty grające na gitarach w dżungli”).

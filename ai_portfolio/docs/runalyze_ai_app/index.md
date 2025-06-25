@@ -1,6 +1,7 @@
-<h1 align="center" style="margin-bottom: 0.2em;">🏃 <strong>RunAlyze AI</strong> 📊</h1>
-<h2 align="center" style="margin-top: 0;">Twój osobisty asystent predykcji czasu półmaratonu</h2>
-
+<h1 style="text-align: center; margin-bottom: 0.2em;">
+  🏃 <strong style="color: #FFD700;">RunAlyze AI</strong> 📊
+</h1>
+<h2 align="center" style="margin-top: 0; color: #555;">Twój asystent predykcji czasu półmaratonu</h2>
 ---
 
 <h4 align="center" style="margin-top: 2em; margin-bottom: 0;">Wprowadź dane swojego biegu i zobacz, jak wypadasz na tle tysięcy innych zawodników.</h4>
@@ -14,10 +15,10 @@
 
 ---
 
-## 🧠 Co potrafi?
+## 🧠 **Co potrafi?**
 
 1. **Wprowadź dane ręcznie lub opisowo** – podaj czas, płeć, rok urodzenia albo po prostu opisz bieg – AI wyciągnie potrzebne informacje.
-2. **Szybka analiza i predykcja** – aplikacja błyskawicznie szacuje Twój przewidywany czas półmaratonu na podstawie danych historycznych.
+2. **Analizuj i prognozuj** – uzyskaj błyskawiczną predykcję czasu na podstawie rzeczywistych wyników.
 3. **Porównanie z innymi** – zobacz, jak Twój wynik wypada na tle tysięcy biegaczy.
 4. **Personalizacja** – aplikacja uwzględnia Twój wiek, płeć i dokładny czas.
 5. **Estetyczna i funkcjonalna wizualizacja** – Twój wynik wyróżnia się na tle innych dzięki dynamicznej ikonie i opisie.
@@ -25,7 +26,7 @@
 
 ---
 
-## 🎯 Dla kogo?
+## 🎯 **Dla kogo?**
 
 Dla biegaczy, trenerów, analityków sportowych i pasjonatów danych – dla każdego, kto chce lepiej zrozumieć swoje osiągi i planować przyszłe starty.
 
@@ -35,7 +36,7 @@ Dla biegaczy, trenerów, analityków sportowych i pasjonatów danych – dla ka�
 
 ---
 
-## 🛠️ Technologie
+## 🛠️ **Technologie**
 
 - **Python** – język główny aplikacji i analizy danych
 - **Streamlit** – szybki framework do budowy aplikacji webowych
@@ -49,9 +50,9 @@ Dla biegaczy, trenerów, analityków sportowych i pasjonatów danych – dla ka�
 ---
 
 
-## 🚀 Jak to działa?
+## 🚀 **Jak to działa?**
 
-### 1. Wprowadź dane 📝
+### 1️⃣ Wprowadź dane 📝
 
 *To pierwszy krok. Bez niego RunAlyze AI nie ruszy.*
 
@@ -60,31 +61,38 @@ Dla biegaczy, trenerów, analityków sportowych i pasjonatów danych – dla ka�
 </div>
 ---
 
-### 2. Analiza i predykcja 🤖
+### 2️⃣ Analiza i predykcja 🤖
 
 Model uczenia maszynowego błyskawicznie analizuje Twoje dane i przewiduje Twój wynik na podstawie rzeczywistych wyników tysięcy biegaczy.
-![Predykcja](runalyze_ai_02.png)
 
+<div style="text-align: center;">
+  <img src="runalyze_ai_02.png" alt="Predykcja" style="max-width: 100%; height: auto;">
+</div>
 ---
 
-### 3. Twoje miejsce na wykresie 📊
+### 3️⃣ Twoje miejsce na wykresie 📊
 
 Zobacz swój punkt (🏅) na interaktywnym wykresie. Możesz porównać się z innymi biegaczami w podobnym wieku i tej samej płci.
 🎯 Zobacz, czy jesteś bliżej czołówki, czy peletonu!
 
-![Rok](runalyze_ai_03.png)
+<div style="text-align: center;">
+  <img src="runalyze_ai_03.png" alt="Rok" style="max-width: 100%; height: auto;">
+</div>
+
+---
+
 <div style="text-align: center;">
   <img src="runalyze_ai_04.png" alt="Wykres" style="max-width: 100%; height: auto;">
 </div>
 
-### 4. Testuj różne scenariusze 🔁
+### 4️⃣ Testuj różne scenariusze 🔁
 Zmień wiek, czas, płeć albo rok i zobacz, jak zmienia się Twoja pozycja.
 Idealne, jeśli chcesz symulować formę, planować progres lub ustalać cele treningowe.
 
 ---
 
 
-## 🧾 Wymagania
+## 🧾 **Wymagania**
 
 - Przeglądarka internetowa (działa na komputerze i mobilnie)
 - Brak konieczności logowania

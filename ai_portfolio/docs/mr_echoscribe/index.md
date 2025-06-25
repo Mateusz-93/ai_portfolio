@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Co potrafi?
+## 🧠 **Co potrafi?**
 
 1. **Wideo? Poproszę!** – przeciągnij plik (MP4, MPEG4, do 200 MB) i wrzuć go do eleganckiego drop-zone’u.
 2. **Wyodrębnij audio** – film to nie tylko obraz. MrEchoScribe wydzieli z niego samą ścieżkę dźwiękową.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🎯 Dla kogo?
+## 🎯 **Dla kogo?**
 
 Dla filmowców, twórców internetowych, edukatorów, tłumaczy, montażystów – wszystkich, którzy chcą, by ich treść była czytelna, dostępna i gotowa na więcej.
 
@@ -45,12 +45,12 @@ Dla filmowców, twórców internetowych, edukatorów, tłumaczy, montażystów �
 
 ---
 
-## 🔑 Wymagania
+## 🔑 **Wymagania**
 - **Klucz API OpenAI** – to Twoja wejściówka do świata transkrypcji. Wprowadź go, a MrEchoScribe zacznie działać.
 
 ---
 
-## 🎬 Jak to działa?
+## 🎬 **Jak to działa?**
 
 ### 1. Wprowadź swój klucz API OpenAI  
 To pierwszy krok. Bez niego MrEchoScribe nie ruszy w świat dźwięków.
