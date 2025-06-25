@@ -27,12 +27,13 @@ theme:
 nav:
 - Strona Domowa: index.md
 - Obecny projekt:
-  - "Find Friends": find_friends_app/index.md
+  - "RunAlyze AI": runalyze_ai_app/index.md
 - Poprzednie projekty:
   - "Titanic - analiza": titanic/index.md
   - "Iris - analiza": iris/index.md
   - "Pencil Master": kolorowanka/index.md
   - "MrEchoScribe": mr_echoscribe/index.md
+  - "Find Friends": find_friends_app/index.md
 
 extra:
   social:

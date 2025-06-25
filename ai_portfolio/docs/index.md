@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 0.2em;">Witaj na moim portfolio</h1>
+<h1 align="center" style="margin-bottom: 0.2em;"><strong>Witaj na moim portfolio</strong></h1>
 
 
 ---
