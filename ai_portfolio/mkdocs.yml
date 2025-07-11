@@ -10,6 +10,8 @@ repo_url: https://github.com/Mateusz-93/ai_portfolio
 
 theme:
   name: material
+  features:
+    - content.icons
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -23,7 +25,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Przełącz na tryb jasny
-
+        
 nav:
 - 🔍 O mnie: index.md
 - Obecny projekt:
@@ -38,6 +40,9 @@ nav:
 
 extra:
   social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mateusz-wilczewski-667298370/
+      name: LinkedIn
     - icon: fontawesome/brands/github
       link: https://github.com/Mateusz-93
       name: GitHub

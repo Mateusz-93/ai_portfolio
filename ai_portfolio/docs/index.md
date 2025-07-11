@@ -106,12 +106,11 @@ Chcę, by technologia była **czytelna, użyteczna i ludzka**.
 ## 📬 **Kontakt**
 
 Masz pytanie, propozycję współpracy lub po prostu chcesz pogadać o danych?  
+
 Zapraszam:
-
-- 📧 mateuszvvilczewski@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/twoj-profil)  
-- 🐙 [GitHub](https://github.com/Mateusz-93)
-
+- [:fontawesome-solid:envelope:] [mateuszvvilczewski@gmail.com](mailto:mateuszvvilczewski@gmail.com)  
+- [:fontawesome-brands-linkedin:] <a href="https://www.linkedin.com/in/mateusz-wilczewski-667298370/" target="_blank" rel="noopener">LinkedIn</a>  
+- [:fontawesome-brands-github:] <a href="https://github.com/Mateusz-93" target="_blank" rel="noopener">GitHub</a>
 
 ---
 
